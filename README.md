@@ -1,5 +1,5 @@
 - 👋 Hi, I’m BHAGYASHRI
-- 👀 I’m interested in python development,
+- 👀 I’m interested in python open source development,
 - 🌱 I’m currently learning machine learning
 
 
